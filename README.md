@@ -1,7 +1,7 @@
 <img src=https://img.shields.io/badge/build%20with-python-yellow><img src="https://img.shields.io/badge/-streamlit-orange"> <img src="https://img.shields.io/badge/deployed%20in-Streamlit Cloudu-blue"> <img src="https://img.shields.io/badge/domain-Web%20Scraping-orange%20.svg" ><img src="https://img.shields.io/badge/Machine%20Learning-orange.svg"><img src="https://img.shields.io/badge/Natural%20Language%20Processing-orange%20.svg">
 
 
-# IMDB Sentiment Analyzer 1.O Using Machine Learning (Bag-Of-Words and Count Vectorizer)
+# IMDB Sentiment Analyzer
 
 Sentiment analysis (also known as opinion mining or emotion AI) refers to the use of natural language processing, text analysis, computational linguistics, and bio metrics to systematically identify, extract, quantify, and study affective states and subjective information. Sentiment analysis is widely applied to voice of the customer materials such as reviews and survey responses, online and social media, and healthcare materials for applications that range from marketing to customer service to clinical medicine. (source: Wikipedia)
 
