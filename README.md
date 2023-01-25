@@ -33,3 +33,5 @@ Web Scraping File: https://github.com/bhushan-zade/imdb_webscrapping_and_sentime
   Python, Streamlit framework has been used for web development and the site was hosted in Streamlit Cloud as well. 
 
   Visit The Web App : https://bhushan-zade-sentiment-analysis-app-s2holg.streamlit.app/
+  
+<img align="" alt="coding" width="600" src= "https://user-images.githubusercontent.com/118050962/214591808-ccb3d604-4d84-4a27-b62d-29759f66420a.PNG">
