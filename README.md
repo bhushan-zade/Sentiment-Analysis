@@ -25,7 +25,7 @@ Used Machine Learning Model : https://github.com/bhushan-zade/imdb_webscrapping_
 2.Web Scraping : 
   Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites. Web scraping software may access the World Wide Web directly using the Hypertext Transfer Protocol, or through a web browser. While web scraping can be done manually by a software user, the term typically refers to automated processes implemented using a bot or web crawler. It is a form of copying, in which specific data is gathered and copied from the web, typically into a central local database or spreadsheet, for later retrieval or analysis. ( source : Wikipedia)
 
-For this project, IMDB website has been scraped using Beautiful Soup, a Python library for pulling data out of HTML and XML files. Scraped data has been used to build a web app which will be able to distinguish between positive and negative review of a movie. This web app has two sections, one where visitors can witness the sentiment of movie reviews available in IMDB and the second section encourage visitors to predict their sentiment by writing a movie review. 
+For this project, IMDB website has been scraped using Beautiful Soup, a Python library for pulling data out of HTML files. Scraped data has been used to build a web app which will be able to distinguish between positive and negative review of a movie. This web app has two sections, one where visitors can witness the sentiment of movie reviews available in IMDB and the second section encourage visitors to predict their sentiment by writing a movie review. 
 
 Web Scraping File: https://github.com/bhushan-zade/imdb_webscrapping_and_sentiment_analysis/blob/main/Imdb_Scraping.ipynb
 
