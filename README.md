@@ -31,7 +31,7 @@ Application of Sentiment analysis is done to know about public reaction of any p
 
 For this project, IMDB website has been scraped using Beautiful Soup, a Python library for pulling data out of HTML files. Scraped data has been used to build a web app which will be able to distinguish between positive and negative review of a movie. This web app has two sections, one where visitors can witness the sentiment of movie reviews available in IMDB and the second section encourage visitors to predict their sentiment by writing a movie review. 
 
-**`Web Scraping File:`** https://github.com/bhushan-zade/imdb_webscrapping_and_sentiment_analysis/blob/main/Imdb_Scraping.ipynb
+**`Web Scraping:`** https://github.com/bhushan-zade/imdb_webscrapping_and_sentiment_analysis/blob/main/Imdb_Scraping.ipynb
 
 #
 
