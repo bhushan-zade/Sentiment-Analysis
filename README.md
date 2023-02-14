@@ -21,7 +21,7 @@ Application of Sentiment analysis is done to know about public reaction of any p
 
 **`Data Prepossessing & Model Applied:`** https://www.kaggle.com/code/bhu1111/sentiment-analysis-movies-review
 
-**`Used Machine Learning Model:`** https://github.com/bhushan-zade/imdb_webscrapping_and_sentiment_analysis/blob/main/sentiment%20Analysis.ipynb
+**`Model Python-APP(app.py):`** https://github.com/bhushan-zade/Sentiment-Analysis/blob/main/app.py
 
 #
 
