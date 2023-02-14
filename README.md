@@ -19,7 +19,7 @@ Application of Sentiment analysis is done to know about public reaction of any p
 
 **`Data Source:`** https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
-**`Data Prepossessing & Machine Learning algorithm Demo:`** https://www.kaggle.com/code/bhu1111/sentiment-analysis-movies-review
+**`Data Prepossessing & Model Applied:`** https://www.kaggle.com/code/bhu1111/sentiment-analysis-movies-review
 
 **`Used Machine Learning Model:`** https://github.com/bhushan-zade/imdb_webscrapping_and_sentiment_analysis/blob/main/sentiment%20Analysis.ipynb
 
